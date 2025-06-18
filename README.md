@@ -47,19 +47,19 @@ Ce projet m’a permis de :
 ## Captures d'écran
 
 ### Navigation mobile
-<img src="images/capture-ecran-volet-navigation-responsive.png" alt="Menu de navigation sur mobile" title="Navigation responsive" height="300">
+<img src="images/capture-ecran-volet-navigation-responsive.png" alt="Menu de navigation sur mobile" title="Navigation responsive" max-height="300">
 
 ### Sondage engageant
-<img src="images/capture-ecran-sondage-mensuel.png" alt="Sondage mensuel favorisant l'engagement ludique" title="Sondage favorisant l'engagement" height="300">
+<img src="images/capture-ecran-sondage-mensuel.png" alt="Sondage mensuel favorisant l'engagement ludique" title="Sondage favorisant l'engagement" max-height="300">
 
 ### Effet au survol des liens
-<img src="images/capture-ecran-effet-survol-photos.png" alt="Effet au survol des photos et ouverture dans une nouvelle fenêtre" title="Amélioration de l'UX avec la mise en évidence des liens au survol" height="300">
+<img src="images/capture-ecran-effet-survol-photos.png" alt="Effet au survol des photos et ouverture dans une nouvelle fenêtre" title="Amélioration de l'UX avec la mise en évidence des liens au survol" max-height="300">
 
 ### Esthétique du thème et CTA
-<img src="images/capture-ecran-coordonnees-page-contact.png" alt="Coordonnées, horaires d'ouverture et bouton vers le formulaire de contact" title="Codes de l'univers apicole respectés" height="300">
+<img src="images/capture-ecran-coordonnees-page-contact.png" alt="Coordonnées, horaires d'ouverture et bouton vers le formulaire de contact" title="Codes de l'univers apicole respectés" max-height="300">
 
 ### Effet étiquette
-<img src="images/capture-ecran-presentation-produit-effet-etiquette.png" alt="Présentation des produits" title="Suggestion d'utilisation écrite et photographique" height="300">
+<img src="images/capture-ecran-presentation-produit-effet-etiquette.png" alt="Présentation des produits" title="Suggestion d'utilisation écrite et photographique" max-height="300">
 
 ## Contact
 
