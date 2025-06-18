@@ -1,7 +1,7 @@
 # Miel de Bretagne Ferret
 
-Un site vitrine responsive pour découvrir les produits et valoriser le travail d’un apiculteur fictif situé en Bretagne.
-🔗 [voir le site en ligne](https://MathildeGuedon.github.io/Miellerie-Ferret)
+Un site vitrine responsive pour découvrir les produits et valoriser le travail d’un apiculteur fictif situé en Bretagne.  
+🔗 <a href="https://MathildeGuedon.github.io/Miellerie-Ferret" target="_blank" rel="noopener noreferrer">Voir le site en ligne</a>
 
 ## Aperçu visuel
 
@@ -64,5 +64,4 @@ Ce projet m’a permis de :
 ## Contact
 
 Mathilde Guédon - mathilde2.guedon@hotmail.fr - 
-[LinkedIn](https://www.linkedin.com/in/mathilde-guédon-a08a08369)
-
+<a href="https://www.linkedin.com/in/mathilde-guédon-a08a08369" target="_blank" rel="noopener noreferrer">LinkedIn</a>
