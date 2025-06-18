@@ -1,0 +1,63 @@
+h1 {
+    position: relative;
+    background-image: url(../images/gros-plan-abeilles-sortie-ruche-planche-envol-bleu.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: clamp(10%, 25vh, 225px) 0 clamp(10%, 25vh, 225px) 10%;
+    text-align: left;
+    color: var(--color-jaune-principal);
+    z-index: 1;
+}
+
+h1::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.60);
+    /* Couche semi-transparente noire */
+    z-index: -1;
+}
+
+.contenu-principal-404 {
+    background-color: white;
+}
+
+.presentation-404 {
+    display: flex;
+    flex-direction: row;
+    width: min(800px, 90vw);
+    align-items: center;
+    gap: 25px;
+    margin: auto;
+    padding: 80px 0;
+}
+
+.presentation-404 img {
+    width: 320px;
+}
+
+.presentation-404 h2 {
+    padding-bottom: 80px;
+}
+
+.presentation-404 p {
+    text-align: center;
+}
+
+@media screen and (max-width: 1000px) {
+    h1 {
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .presentation-404 {
+        flex-direction: column;
+    }
+
+    .presentation-404 img {
+        width: min(320px, 90%);
+    }
+}

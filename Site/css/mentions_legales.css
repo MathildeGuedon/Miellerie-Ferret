@@ -1,0 +1,61 @@
+h1 {
+    position: relative;
+    background-image: url(../images/honey-jars-with-honeycomb.jpg);
+    background-size: cover;
+    background-position: bottom;
+    padding: clamp(10%, 25vh, 225px) 0 clamp(10%, 25vh, 225px) 10%;
+    text-align: left;
+    color: var(--color-jaune-principal);
+    z-index: 1;
+}
+
+h1::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.50);
+    /* Couche semi-transparente noire */
+    z-index: -1;
+}
+
+.intro-mentions-legales {
+    width: min(900px, 90vw);
+    margin: auto;
+    padding-top: 80px;
+}
+
+.intro-mentions-legales {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    text-align: justify;
+}
+
+.intro-mentions-legales p {
+    width: 90%;
+    margin: auto;
+    text-align: justify;
+}
+
+.intro-mentions-legales ul {
+    width: 80%;
+    margin: auto;
+    text-align: justify;
+}
+
+@media screen and (max-width: 1000px) {
+    h1 {
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .texte-presentation {
+        align-items: center;
+        height: fit-content;
+    }
+}
