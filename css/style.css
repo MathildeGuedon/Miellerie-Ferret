@@ -63,6 +63,12 @@ nav {
     font-weight: 600;
 }
 
+.bandeau {
+    text-align: center;
+    background-color: var(--color-jaune-principal);
+    padding: 1em;
+}
+
 h1 {
     font-family: var(--font-family-titre);
     font-size: var(--font-size-titre-h1);
